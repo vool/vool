@@ -1,6 +1,7 @@
 ### Hi, I'm Keith
 
-I've been here for <!-- writing_moons starts -->545<!-- writing_moons ends --> moons.
+I am a software developer based in the south-west of Ireland    
+I've been here for <!-- writing_moons starts --> <!-- writing_moons ends --> moons and posted <!-- writing_tweets starts --> <!-- writing_tweets ends --> tweets.
 
 <!--
 **vool/vool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[My personal website &rarr;](https://vool.ie/)    
+[My personal website &rarr;](http://vool.ie/)    
 [@tweetphelan on Twitter &rarr;](https://twitter.com/tweetphelan)    
 [@phelan@mastodon.ie on Mastodon &rarr;](https://mastodon.ie/@phelan)    
 [keith@vool.ie on Email &rarr;](mailto:keith@vool.ie)

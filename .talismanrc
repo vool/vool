@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: .github/workflows/build.yml
+  checksum: 6b47f7473774a95679c76438d46e6171721e159d92568053f90ac89613ec9fa3
+- filename: build_readme.py
+  checksum: 5ac463fb94d74ae6e2342973910df9d9403977be468e8fc0f95e9942423fc417
+version: "1.0"
