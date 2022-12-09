@@ -27,7 +27,12 @@ Here are some ideas to get you started:
 ### 📝 Recent Blog Posts
 
 <!-- writing starts -->
-
+* [St Bridget’s Cross (Data Centre Edition)](https://vool.ie/st-bridgets-cross-data-centre-edition/) - February 2022
+* [Isolation Island](https://vool.ie/isolation-island/) - April 2020
+* [@everyringfort](https://vool.ie/everyringfort/) - March 2019
+* [(Street) views from the Border](https://vool.ie/street-views-from-the-border/) - October 2018
+* [Oh border where art thou](https://vool.ie/oh-border-where-art-thou/) - September 2018
+* [Barcode  Vexillum](https://vool.ie/barcode-vexillum/) - August 2015
 <!-- writing ends -->
 
-View the archives (<!-- writing_count starts -->0<!-- writing_count ends --> posts) @ [vool.ie](http://vool.ie).
+View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> posts) @ [vool.ie](http://vool.ie).
