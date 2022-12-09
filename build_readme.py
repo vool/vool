@@ -22,7 +22,7 @@ def replace_writing(content, marker, chunk, inline=False):
 
 
 def fetch_writing():
-    entries = feedparser.parse('http://vool.ie/feed/')['entries']
+    entries = feedparser.parse('https://vool.ie/feed/')['entries']
     top5_entries = entries[:6]
 
     entry_count = len(entries)
