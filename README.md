@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### 📝 Recent Blog Posts
 
 <!-- writing starts -->
-* [St Bridget’s Cross (Data Centre Edition)](https://vool.ie/st-bridgets-cross-data-centre-edition/) - February 2022
+* [St Brigid’s Cross (Data Centre Edition)](https://vool.ie/st-brigids-cross-data-centre-edition/) - February 2022
 * [Isolation Island](https://vool.ie/isolation-island/) - April 2020
 * [@everyringfort](https://vool.ie/everyringfort/) - March 2019
 * [(Street) views from the Border](https://vool.ie/street-views-from-the-border/) - October 2018
