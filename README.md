@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 ### 📝 Recent Blog Posts
 
 <!-- writing starts -->
+* [The Brent Goose Poster](https://vool.ie/the-brent-goose-poster/) - February 2024
 * [Goodiepal @ 50 Poster](https://vool.ie/goodiepal-poster/) - January 2024
 * [Gig for Gaza Poster](https://vool.ie/gig-for-gaza-poster/) - December 2023
 * [St Brigid’s Cross (Data Centre Edition)](https://vool.ie/st-brigids-cross-data-centre-edition/) - February 2022
 * [Isolation Island](https://vool.ie/isolation-island/) - April 2020
 * [@everyringfort](https://vool.ie/everyringfort/) - March 2019
-* [(Street) views from the Border](https://vool.ie/street-views-from-the-border/) - October 2018
 <!-- writing ends -->
 
 View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> posts) @ [vool.ie](http://vool.ie).
