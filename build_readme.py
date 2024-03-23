@@ -10,8 +10,7 @@ import os
 
 root = pathlib.Path(__file__).parent.resolve()
 
-
-def replace_writing(content, marker, chunk, inline=False):
+def replace_section(content, marker, chunk, inline=False):
     r = re.compile(
         r'<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->'.format(marker, marker),
         re.DOTALL,
@@ -20,7 +19,6 @@ def replace_writing(content, marker, chunk, inline=False):
         chunk = '\n{}\n'.format(chunk)
     chunk = '<!-- {} starts -->{}<!-- {} ends -->'.format(marker, chunk, marker)
     return r.sub(chunk, content)
-
 
 def fetch_writing():
     entries = feedparser.parse('https://vool.ie/feed/')['entries']
@@ -37,11 +35,9 @@ def fetch_writing():
                for entry in top5_entries
            ], entry_count
 
-
 def calc_moons():
     diff = relativedelta(datetime(year=1977, month=4, day=1), date.today())
     return abs(diff.years * 12 + diff.months)
-
 
 def fetch_toot_count():
     url = "https://mastodon.ie/api/v1/accounts/lookup?acct=@phelan"
@@ -86,25 +82,25 @@ if __name__ == '__main__':
     )
 
     # Update entries
-    rewritten_entries = replace_writing(readme, 'writing', entries_md)
+    rewritten_entries = replace_section(readme, 'writing', entries_md)
     readme_path.open('w').write(rewritten_entries)
 
     # Update count
     readme = readme_path.open().read()
-    rewritten_count = replace_writing(readme, 'writing_count', entry_count, inline=True)
+    rewritten_count = replace_section(readme, 'writing_count', entry_count, inline=True)
     readme_path.open('w').write(rewritten_count)
 
     # Update moons
     readme = readme_path.open().read()
-    rewritten_count = replace_writing(readme, 'writing_moons', moon_count, inline=True)
+    rewritten_count = replace_section(readme, 'writing_moons', moon_count, inline=True)
     readme_path.open('w').write(rewritten_count)
 
     # Update toots
     readme = readme_path.open().read()
-    rewritten_count = replace_writing(readme, 'writing_toots', toot_count, inline=True)
+    rewritten_count = replace_section(readme, 'writing_toots', toot_count, inline=True)
     readme_path.open('w').write(rewritten_count)
 
     # Update reading
     readme = readme_path.open().read()
-    rewritten_reading = replace_writing(readme, 'reading', reading_md)
+    rewritten_reading = replace_section(readme, 'reading', reading_md)
     readme_path.open('w').write(rewritten_reading)
