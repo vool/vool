@@ -16,7 +16,12 @@ I've been here for <!-- writing_moons starts -->563<!-- writing_moons ends --> m
 
 View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> posts) @ [vool.ie](https://vool.ie)
 
-### 🔗 Links
+### 📚 Currently Reading    
+<!-- reading starts -->
+<!-- reading ends -->
+[View on OpenLibrary](https://openlibrary.org/people/phelan5959)
+
+### 🔗 Links   
 [My personal website &rarr;](https://vool.ie/)    
 ~~[@tweetphelan on Twitter &rarr;](https://twitter.com/tweetphelan)~~    
 [@phelan@mastodon.ie on Mastodon &rarr;](https://mastodon.ie/@phelan)    

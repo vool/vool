@@ -1,5 +1,6 @@
 name: Build README
 env:
+  OPENLIBRARY_USER: phelan5959
 on:
   push:
   workflow_dispatch:

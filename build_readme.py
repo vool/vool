@@ -1,5 +1,3 @@
-
-
 from dateutil.relativedelta import relativedelta
 from datetime import datetime, date
 from urllib.request import urlopen
@@ -51,16 +49,40 @@ def fetch_toot_count():
     data_json = json.loads(res.read())
     return data_json['statuses_count']
 
+def fetch_reading():
+    ol_base_url='https://openlibrary.org'
+    url = "https://openlibrary.org/people/{}/books/currently-reading.json".format(os.environ['OPENLIBRARY_USER'])
+    ol_cover_url = "https://covers.openlibrary.org/b/olid/{}-M.jpg"
+    response = urlopen(url)
+    data_json = json.loads(response.read())
+    books = data_json['reading_log_entries']
+
+    return [
+               {
+                   'title': entry['work']['title'],
+                   'url': ol_base_url+entry['work']['key'],
+                   'cover_url': ol_cover_url.format(entry['work']['cover_edition_key']),
+                   'author': entry['work']['author_names'][0],
+                   'author_url': ol_base_url+entry['work']['author_keys'][0],
+               }
+               for entry in books
+           ]
+
 if __name__ == '__main__':
     readme_path = root / 'README.md'
     readme = readme_path.open().read()
     entries, entry_count = fetch_writing()
     moon_count = calc_moons()
     toot_count = fetch_toot_count()
+    reading = fetch_reading()
     print(f'Recent 6: {entries}, Total count: {entry_count}, Total moons: {moon_count}, Toot counts: {toot_count}')
 
     entries_md = '\n'.join(
         ['* [{title}]({url}) - {published}'.format(**entry) for entry in entries]
+    )
+
+    reading_md = '\n'.join(
+        ['* ![{title}]({cover_url}) [{title}]({url}) - [{author}]({author_url})'.format(**book) for book in reading]
     )
 
     # Update entries
@@ -81,3 +103,8 @@ if __name__ == '__main__':
     readme = readme_path.open().read()
     rewritten_count = replace_writing(readme, 'writing_toots', toot_count, inline=True)
     readme_path.open('w').write(rewritten_count)
+
+    # Update reading
+    readme = readme_path.open().read()
+    rewritten_reading = replace_writing(readme, 'reading', reading_md)
+    readme_path.open('w').write(rewritten_reading)
