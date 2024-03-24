@@ -19,7 +19,7 @@ View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> po
 ### 📚 Currently Reading    
 <!-- reading starts -->
 * ![Ways of Being](https://covers.openlibrary.org/b/olid/OL38803755M-M.jpg) [Ways of Being](https://openlibrary.org/works/OL26003614W) - [James Bridle](https://openlibrary.org/authors/OL7421254A)
-* ![New Frontier](https://covers.openlibrary.org/b/olid/OL34807678M-M.jpg) [New Frontier](https://openlibrary.org/works/OL25815359W) - [James Conor Patterson](https://openlibrary.org/authors/OL9766170A)
+* ![From What Is to What If](https://covers.openlibrary.org/b/olid/OL28362637M-M.jpg) [From What Is to What If](https://openlibrary.org/works/OL20934860W) - [Rob Hopkins](https://openlibrary.org/authors/OL5184095A)
 <!-- reading ends -->
 [View on OpenLibrary](https://openlibrary.org/people/phelan5959)
 
