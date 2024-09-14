@@ -1,17 +1,17 @@
 ### Hi, I'm Keith
 
 I am a software developer and doer of things based in the south-west of Ireland.     
-I've been here for <!-- writing_moons starts -->569<!-- writing_moons ends --> moons and posted <!-- writing_toots starts -->153<!-- writing_toots ends --> toots.
+I've been here for <!-- writing_moons starts -->569<!-- writing_moons ends --> moons and posted <!-- writing_toots starts -->154<!-- writing_toots ends --> toots.
 
 ### 📝 Recent Blog Posts
 
 <!-- writing starts -->
+* [A psychogeographical exploration of Tralee’s rivers](https://vool.ie/a-psychogeographical-exploration-of-tralees-rivers/) - August 2024
 * [The Brent Goose Poster](https://vool.ie/the-brent-goose-poster/) - February 2024
 * [Goodiepal @ 50 Poster](https://vool.ie/goodiepal-poster/) - January 2024
 * [Gig for Gaza Poster](https://vool.ie/gig-for-gaza-poster/) - December 2023
 * [St Brigid’s Cross (Data Centre Edition)](https://vool.ie/st-brigids-cross-data-centre-edition/) - February 2022
 * [Isolation Island](https://vool.ie/isolation-island/) - April 2020
-* [@everyringfort](https://vool.ie/everyringfort/) - March 2019
 <!-- writing ends -->
 
 View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> posts) @ [vool.ie](https://vool.ie)
