@@ -1,7 +1,7 @@
 ### Hi, I'm Keith
 
 I am a software developer and doer of things based in the south-west of Ireland.     
-I've been here for <!-- writing_moons starts -->573<!-- writing_moons ends --> moons and posted <!-- writing_toots starts -->200<!-- writing_toots ends --> toots.
+I've been here for <!-- writing_moons starts -->573<!-- writing_moons ends --> moons and posted <!-- writing_toots starts -->205<!-- writing_toots ends --> toots.
 
 ### 📝 Recent Blog Posts
 
@@ -18,7 +18,6 @@ View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> po
 
 ### 📚 Currently Reading    
 <!-- reading starts -->
-* ![Funny Weather](https://covers.openlibrary.org/b/olid/OL28169690M-M.jpg) [Funny Weather](https://openlibrary.org/works/OL20808218W) - [Olivia Laing](https://openlibrary.org/authors/OL7938894A)
 * ![Ways of Being](https://covers.openlibrary.org/b/olid/OL38803755M-M.jpg) [Ways of Being](https://openlibrary.org/works/OL26003614W) - [James Bridle](https://openlibrary.org/authors/OL7421254A)
 * ![From What Is to What If](https://covers.openlibrary.org/b/olid/OL28362637M-M.jpg) [From What Is to What If](https://openlibrary.org/works/OL20934860W) - [Rob Hopkins](https://openlibrary.org/authors/OL5184095A)
 <!-- reading ends -->
