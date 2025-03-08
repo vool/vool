@@ -1,7 +1,7 @@
 ### Hi, I'm Keith
 
 I am a software developer and doer of things based in the south-west of Ireland.     
-I've been here for <!-- writing_moons starts -->574<!-- writing_moons ends --> moons and posted <!-- writing_toots starts -->272<!-- writing_toots ends --> toots.
+I've been here for <!-- writing_moons starts -->575<!-- writing_moons ends --> moons and posted <!-- writing_toots starts -->282<!-- writing_toots ends --> toots.
 
 ### 📝 Recent Blog Posts
 
@@ -18,6 +18,7 @@ View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> po
 
 ### 📚 Currently Reading    
 <!-- reading starts -->
+* ![Weapons of Math Destruction](https://covers.openlibrary.org/b/olid/OL26427189M-M.jpg) [Weapons of Math Destruction](https://openlibrary.org/works/OL17840708W) - [Cathy O'Neil](https://openlibrary.org/authors/OL7412371A)
 * ![Ways of Being](https://covers.openlibrary.org/b/olid/OL38803755M-M.jpg) [Ways of Being](https://openlibrary.org/works/OL26003614W) - [James Bridle](https://openlibrary.org/authors/OL7421254A)
 * ![From What Is to What If](https://covers.openlibrary.org/b/olid/OL28362637M-M.jpg) [From What Is to What If](https://openlibrary.org/works/OL20934860W) - [Rob Hopkins](https://openlibrary.org/authors/OL5184095A)
 <!-- reading ends -->
