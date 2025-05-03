@@ -6,12 +6,12 @@ I've been here for <!-- writing_moons starts -->577<!-- writing_moons ends --> m
 ### 📝 Recent Blog Posts
 
 <!-- writing starts -->
+* [wild atlantic xyz talk](https://vool.ie/wild-atlantic-xyz-talk/) - April 2025
 * [TIL Test](https://vool.ie/til-test/) - December 2024
 * [Meanders](https://vool.ie/meanders/) - September 2024
 * [A psychogeographical exploration of Tralee’s rivers](https://vool.ie/a-psychogeographical-exploration-of-tralees-rivers/) - August 2024
 * [The Brent Goose Poster](https://vool.ie/the-brent-goose-poster/) - February 2024
 * [Goodiepal @ 50 Poster](https://vool.ie/goodiepal-poster/) - January 2024
-* [Gig for Gaza Poster](https://vool.ie/gig-for-gaza-poster/) - December 2023
 <!-- writing ends -->
 
 View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> posts) @ [vool.ie](https://vool.ie)
