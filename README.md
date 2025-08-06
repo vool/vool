@@ -18,7 +18,8 @@ View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> po
 
 ### 📚 Currently Reading    
 <!-- reading starts -->
-* ![Weapons of Math Destruction](https://covers.openlibrary.org/b/olid/OL26427189M-M.jpg) [Weapons of Math Destruction](https://openlibrary.org/works/OL17840708W) - [Cathy O'Neil](https://openlibrary.org/authors/OL7412371A)
+* ![Mood Machine](https://covers.openlibrary.org/b/olid/OL57433840M-M.jpg) [Mood Machine](https://openlibrary.org/works/OL42337086W) - [ Liz Pelly](https://openlibrary.org/authors/OL14970246A)
+* ![Natural History of Empty Lots](https://covers.openlibrary.org/b/olid/None-M.jpg) [Natural History of Empty Lots](https://openlibrary.org/works/OL37939832W) - [Christopher Brown](https://openlibrary.org/authors/OL2621519A)
 * ![From What Is to What If](https://covers.openlibrary.org/b/olid/OL28362637M-M.jpg) [From What Is to What If](https://openlibrary.org/works/OL20934860W) - [Rob Hopkins](https://openlibrary.org/authors/OL5184095A)
 <!-- reading ends -->
 [View on OpenLibrary](https://openlibrary.org/people/phelan5959)
