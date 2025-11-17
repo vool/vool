@@ -18,7 +18,7 @@ View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> po
 
 ### 📚 Currently Reading    
 <!-- reading starts -->
-* ![Natural History of Empty Lots](https://covers.openlibrary.org/b/olid/None-M.jpg) [Natural History of Empty Lots](https://openlibrary.org/works/OL37939832W) - [Christopher Brown](https://openlibrary.org/authors/OL2621519A)
+* ![Lifehouse - Taking Care of Ourselves in a World on Fire](https://covers.openlibrary.org/b/olid/OL52999807M-M.jpg) [Lifehouse - Taking Care of Ourselves in a World on Fire](https://openlibrary.org/works/OL38924449W) - [Adam Greenfield](https://openlibrary.org/authors/OL3260473A)
 * ![From What Is to What If](https://covers.openlibrary.org/b/olid/OL28362637M-M.jpg) [From What Is to What If](https://openlibrary.org/works/OL20934860W) - [Rob Hopkins](https://openlibrary.org/authors/OL5184095A)
 <!-- reading ends -->
 [View on OpenLibrary](https://openlibrary.org/people/phelan5959)
