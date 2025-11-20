@@ -6,7 +6,7 @@ I've been here for <!-- writing_moons starts -->583<!-- writing_moons ends --> m
 ### 📝 Recent Blog Posts
 
 <!-- writing starts -->
-* [No frills developer experience](https://vool.ie/no-frills-developer-experience/) - November 2025
+* [Ryanair’s no frills developer experience](https://vool.ie/ryanairs-no-frills-developer-experience/) - November 2025
 * [wild atlantic xyz talk](https://vool.ie/wild-atlantic-xyz-talk/) - April 2025
 * [TIL Test](https://vool.ie/til-test/) - December 2024
 * [Meanders](https://vool.ie/meanders/) - September 2024
