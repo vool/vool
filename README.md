@@ -18,7 +18,7 @@ View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> po
 
 ### 📚 Currently Reading    
 <!-- reading starts -->
-* ![Lifehouse - Taking Care of Ourselves in a World on Fire](https://covers.openlibrary.org/b/olid/OL52999807M-M.jpg) [Lifehouse - Taking Care of Ourselves in a World on Fire](https://openlibrary.org/works/OL38924449W) - [Adam Greenfield](https://openlibrary.org/authors/OL3260473A)
+* ![Rule of the Land](https://covers.openlibrary.org/b/olid/None-M.jpg) [Rule of the Land](https://openlibrary.org/works/OL21154518W) - [Garrett Carr](https://openlibrary.org/authors/OL7329366A)
 * ![From What Is to What If](https://covers.openlibrary.org/b/olid/OL28362637M-M.jpg) [From What Is to What If](https://openlibrary.org/works/OL20934860W) - [Rob Hopkins](https://openlibrary.org/authors/OL5184095A)
 <!-- reading ends -->
 [View on OpenLibrary](https://openlibrary.org/people/phelan5959)
