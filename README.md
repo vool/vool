@@ -1,7 +1,7 @@
 ### Hi, I'm Keith
 
 I am a software developer and doer of things based in the south-west of Ireland.     
-I've been here for <!-- writing_moons starts -->589<!-- writing_moons ends --> moons and posted <!-- writing_toots starts -->573<!-- writing_toots ends --> toots.
+I've been here for <!-- writing_moons starts -->589<!-- writing_moons ends --> moons and posted <!-- writing_toots starts -->581<!-- writing_toots ends --> toots.
 
 ### 📝 Recent Blog Posts
 
@@ -18,7 +18,7 @@ View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> po
 
 ### 📚 Currently Reading    
 <!-- reading starts -->
-* ![Rule of the Land](https://covers.openlibrary.org/b/olid/None-M.jpg) [Rule of the Land](https://openlibrary.org/works/OL21154518W) - [Garrett Carr](https://openlibrary.org/authors/OL7329366A)
+* ![Other Networks](https://covers.openlibrary.org/b/olid/OL50953659M-M.jpg) [Other Networks](https://openlibrary.org/works/OL37760725W) - [Lori Emerson](https://openlibrary.org/authors/OL7353441A)
 * ![From What Is to What If](https://covers.openlibrary.org/b/olid/OL28362637M-M.jpg) [From What Is to What If](https://openlibrary.org/works/OL20934860W) - [Rob Hopkins](https://openlibrary.org/authors/OL5184095A)
 <!-- reading ends -->
 [View on OpenLibrary](https://openlibrary.org/people/phelan5959)
