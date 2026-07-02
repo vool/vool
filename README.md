@@ -1,7 +1,7 @@
 ### Hi, I'm Keith
 
 I am a software developer and doer of things based in the south-west of Ireland.     
-I've been here for <!-- writing_moons starts -->591<!-- writing_moons ends --> moons and posted <!-- writing_toots starts -->620<!-- writing_toots ends --> toots.
+I've been here for <!-- writing_moons starts -->591<!-- writing_moons ends --> moons and posted <!-- writing_toots starts -->619<!-- writing_toots ends --> toots.
 
 ### 📝 Recent Blog Posts
 
