@@ -18,8 +18,8 @@ View the archives (<!-- writing_count starts -->10<!-- writing_count ends --> po
 
 ### 📚 Currently Reading    
 <!-- reading starts -->
+* ![Because Internet](https://covers.openlibrary.org/b/olid/OL27277435M-M.jpg) [Because Internet](https://openlibrary.org/works/OL20092649W) - [Gretchen McCulloch](https://openlibrary.org/authors/OL7685504A)
 * ![Other Networks](https://covers.openlibrary.org/b/olid/OL50953659M-M.jpg) [Other Networks](https://openlibrary.org/works/OL37760725W) - [Lori Emerson](https://openlibrary.org/authors/OL7353441A)
-* ![From What Is to What If](https://covers.openlibrary.org/b/olid/OL28362637M-M.jpg) [From What Is to What If](https://openlibrary.org/works/OL20934860W) - [Rob Hopkins](https://openlibrary.org/authors/OL5184095A)
 <!-- reading ends -->
 [View on OpenLibrary](https://openlibrary.org/people/phelan5959)
 
